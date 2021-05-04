@@ -55,11 +55,14 @@ She took the initiative to keep her knowledge base in IT fresh and build new tec
 
 -  Who does she want to see her page?
 
-   1. General public.
-   2. IT professionals and recruiters.
+   General public.
+
+   IT professionals and recruiters.
 
 -  How will these people interact with the page?
 
-   1. By accessing the _About Me_ Page, they can learn more about her background.
-   2. By clicking the icons on the bottom of the website, they can find her social media links (Github, LinkedIn).
-   3. By accessing the _Projects_ Page, they can see a collection of work samples that shows her development skills.
+   By accessing the _About Me_ Page, they can learn more about her background.
+
+   By clicking the icons on the bottom of the website, they can find her social media links (Github, LinkedIn).
+
+   By accessing the _Projects_ Page, they can see a collection of work samples that shows her development skills.
