@@ -5,19 +5,16 @@
 ### Background
 
 Deepa is from Kerala, India.
+
 She has a master in Computer Applications.
+
+She currently lives in Brussels, Belgium.
 
 ### Work Experience
 
 She worked for 3 years as a Software engineer.
 
 She has professional experience using C# language.
-
-### Life Abroad
-
-She's lived in Saudi Arabia for three years.
-
-She moved to Belgium in 2019. She currently lives with her husband in Brussels.
 
 ### Interests
 
@@ -31,9 +28,7 @@ She's been learning French.
 
 After a career hiatus, she joined HYF Belgium to re-enter the job market.
 
-## 2. Follow-Up Interview
-
-## 3. Capture Findings
+## 2. Capture Findings
 
 ### Needs
 
@@ -43,7 +38,7 @@ Get back into the job market.
 
 She took the initiative to keep her knowledge base in IT fresh and build new technical skills.
 
-## 4. Define the Problem
+## 3. Define the Problem
 
 -  Why does your partner need this home page?
 
