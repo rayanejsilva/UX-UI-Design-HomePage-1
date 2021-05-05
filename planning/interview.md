@@ -12,9 +12,9 @@ She currently lives in Brussels, Belgium.
 
 ### Work Experience
 
-She worked for 3 years as a .Net developer.
+She worked for 3 years as a Software engineer.
 
-She has professional experience using C# language.
+She has professional experience as a .Net developer.
 
 ### Interests
 
